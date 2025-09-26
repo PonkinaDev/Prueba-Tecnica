@@ -1,0 +1,244 @@
+{
+  "QuestionsData": [
+    {
+      "Question": "¿Cuánto es 12 + 8?",
+      "Options": {
+        "A": "18",
+        "B": "20",
+        "C": "22",
+        "D": "24"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuál es la raíz cuadrada de 81?",
+      "Options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "¿Cuánto es 15 × 3?",
+      "Options": {
+        "A": "30",
+        "B": "35",
+        "C": "40",
+        "D": "45"
+      },
+      "Answer": "D"
+    },
+    {
+      "Question": "Resuelve: 100 ÷ 25",
+      "Options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "¿Cuánto es 2 elevado a la 5?",
+      "Options": {
+        "A": "16",
+        "B": "32",
+        "C": "64",
+        "D": "128"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuál es el perímetro de un cuadrado con lado 6?",
+      "Options": {
+        "A": "18",
+        "B": "20",
+        "C": "24",
+        "D": "30"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "¿Cuál es el área de un triángulo con base 10 y altura 5?",
+      "Options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "50"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "Simplifica: 3x + 2x",
+      "Options": {
+        "A": "5x",
+        "B": "6x",
+        "C": "x",
+        "D": "10x"
+      },
+      "Answer": "A"
+    },
+    {
+      "Question": "¿Cuánto es 7 al cuadrado?",
+      "Options": {
+        "A": "42",
+        "B": "48",
+        "C": "49",
+        "D": "56"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "¿Cuál es el valor aproximado de π (pi)?",
+      "Options": {
+        "A": "2.14",
+        "B": "3.14",
+        "C": "4.14",
+        "D": "3.41"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuál es el siguiente número primo después de 7?",
+      "Options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "13"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "Si y = 2x y x = 5, ¿cuánto es y?",
+      "Options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuánto es 1/4 + 1/2?",
+      "Options": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "3/4",
+        "D": "1"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "¿Cuál es la pendiente de la recta y = 3x + 2?",
+      "Options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "6"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuántos grados tiene un ángulo recto?",
+      "Options": {
+        "A": "45",
+        "B": "90",
+        "C": "180",
+        "D": "360"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuánto es 9 × 9?",
+      "Options": {
+        "A": "72",
+        "B": "81",
+        "C": "90",
+        "D": "99"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "Si un círculo tiene radio 7, ¿cuál es su diámetro?",
+      "Options": {
+        "A": "7",
+        "B": "14",
+        "C": "21",
+        "D": "28"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuánto es 3/5 de 100?",
+      "Options": {
+        "A": "20",
+        "B": "40",
+        "C": "50",
+        "D": "60"
+      },
+      "Answer": "D"
+    },
+    {
+      "Question": "Resuelve: 2x = 10. ¿Cuánto es x?",
+      "Options": {
+        "A": "2",
+        "B": "5",
+        "C": "10",
+        "D": "20"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuánto es 0 dividido por cualquier número distinto de cero?",
+      "Options": {
+        "A": "0",
+        "B": "1",
+        "C": "Indefinido",
+        "D": "Infinito"
+      },
+      "Answer": "A"
+    },
+    {
+      "Question": "¿Cuál es el factorial de 4 (4!)?",
+      "Options": {
+        "A": "12",
+        "B": "16",
+        "C": "24",
+        "D": "32"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "¿Cuál es el valor de 5 + 3 × 2?",
+      "Options": {
+        "A": "16",
+        "B": "11",
+        "C": "13",
+        "D": "10"
+      },
+      "Answer": "B"
+    },
+    {
+      "Question": "¿Cuál es el siguiente número en la secuencia: 2, 4, 8, 16, ...?",
+      "Options": {
+        "A": "18",
+        "B": "20",
+        "C": "32",
+        "D": "64"
+      },
+      "Answer": "C"
+    },
+    {
+      "Question": "¿Cuál es la suma de los ángulos interiores de un triángulo?",
+      "Options": {
+        "A": "90 grados",
+        "B": "180 grados",
+        "C": "270 grados",
+        "D": "360 grados"
+      },
+      "Answer": "B"
+    }
+  ]
+}
